@@ -1,0 +1,308 @@
+@charset "utf-8";
+.black{
+	color:#000000;
+}
+.card .card-body .card-title {
+}
+.card .card-body .card-title {
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 35px;
+}
+.container .text-center.mt-4 .img-fluid {
+    margin-top: 1px;
+    padding-bottom: 11px;
+}
+.container div .img-fluid {
+    margin-bottom: -60px;
+}
+.text-center.py-5 .container .container {
+    margin-top: 6px;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: bolder;
+    position: absolute;
+}
+.text-center.py-5 .container .container {
+    font-weight: bolder;
+    margin-bottom: -69px;
+    font-size: 40px;
+    letter-spacing: 40px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.row .col-md-6 .img-fluid {
+    margin-top: 5px;
+}
+.card .card-body .card-title {
+}
+.card .card-body .card-title {
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 35px;
+}
+.container .text-center.mt-4 .img-fluid {
+    margin-top: 1px;
+    padding-bottom: 11px;
+}
+.container div .img-fluid {
+    margin-bottom: -60px;
+}
+.text-center.py-5 .container .container {
+    margin-top: 6px;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: bolder;
+    position: absolute;
+}
+.text-center.py-5 .container .container {
+    font-weight: bolder;
+    margin-bottom: -69px;
+    font-size: 40px;
+    letter-spacing: 40px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.row .col-md-6 .img-fluid {
+    margin-top: 5px;
+}
+
+.text-center.py-5 .container .font-weight-bold.mt-3 {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 35px;
+    margin-top: -84px;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .container .navbar-brand {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-style: italic;
+}
+.row .col-md-6 p {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-size: 20px;
+    line-height: 25px;
+}
+.row .col-md-6.text-left .text-white {
+}
+.row .col-md-6.text-left .text-white {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    letter-spacing: 0px;
+}
+.container .song-info .img-fluid {
+    margin-top: 17px;
+}
+.row .col-md-6 .img-fluid {
+    margin-top: 10px;
+}
+.row .col-12 .text-left.text-primary.font-weight-bold {
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 56px;
+}
+.row .col-md-6 .text-primary.font-italic.font-weight-bold {
+    font-family: simonetta;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 66px;
+}
+#canciones .text-primary.font-italic.font-weight-bold {
+    font-family: simonetta;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 62px;
+}
+.grande{
+	font-size: 150px;
+	color: aqua;
+	font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+}
+.margin_top{
+	margin-top: 240px;
+}
+.container .song-info .img-fluid {
+    margin-top: 17px;
+}
+.row .col-md-6 .img-fluid {
+    margin-top: 10px;
+}
+.row .col-12.text-center .img-fluid {
+}
+.row .col-12.text-center h1 {
+    color: #FFFFFF;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: bolder;
+    text-align: right;
+    position: absolute;  
+    margin-right: 273px;
+    margin-left: 639px;
+}
+.row .col-12.text-center h1 {
+    margin-top: -15px;
+    margin-right: 4px;
+}
+.row .col-md-6.text-content h2 {
+    color: #916DFA;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-style: italic;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 71px;
+}
+.navbar.navbar-expand-lg.navbar-dark .container .navbar-brand {
+    font-style: italic;
+    font-weight: bold;
+}
+.row .col-12.text-center h1 {
+    position: absolute;
+    margin-right: 31px;
+    margin-top: 151px;
+    margin-left: 578px;
+    text-align: right;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-size: 86px;
+}
+#info-cancion .container .section-title {
+}
+#letra-video .container .section-title {
+}
+.section-content .container .section-title {
+    text-align: center;
+    color: #AF8BE4;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 45px;
+}
+#spotify .container .section-title {
+}
+.row .col-12.text-center .lead {
+    color: #FFFFFF;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-style: italic;
+    text-align: right;
+    position: absolute;
+    margin-top: 133px;
+    margin-bottom: 0px;
+    margin-right: 67px;
+    padding-right: 0px;
+    margin-left: 774px;
+}
+.py-3.bg-dark.text-white.text-center .btn.btn-light.bg-light {
+    margin-bottom: 32px;
+}
+
+
+.row .col-12 img {
+    margin-left: -12px;
+}
+.row .col-12 img {
+
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .container .navbar-brand {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-style: italic;
+    font-weight: bold;
+}
+.row .col-12 h1 {
+    color: #FFFFFF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 86px;
+    position: absolute;
+    margin-top: 197px;
+}
+#info-cancion .container p {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    line-height: 19px;
+}
+.row .col-md-6.text-content p {
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    font-weight: lighter;
+    line-height: 19px;
+}
+.container .text-center iframe {
+    margin-top: 52px;
+}
+.row .col-12 .mb-lg-2.font-weight-bold.display-4 {
+    text-align: center;
+    font-style: normal;
+    font-size: 37px;
+    font-weight: 400;
+    font-family: Arial, "Arial Black", "Arial Narrow", "Arial Rounded MT Bold";
+    margin-top: 279px;
+    color: #D7C6FF;
+    position: absolute;
+    margin-left: 16px;
+}
+#info-cancion .container h2 {
+    color: #BC90FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-variant: inherit;
+    text-align: left;
+    font-size: 60px;
+}
+.row .col-md-6.text-content h2 {
+    color: #A165D8;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+}
+#carrusel .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+#video .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+#letra .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+}
+#spotify .container h2 {
+    color: #B985FF;
+    font-family: simonetta;
+    font-style: italic;
+    font-weight: 400;
+    font-variant: inherit;
+    line-height: 0px;
+    text-align: center;
+    font-size: 60px;
+}
+
+#info-cancion .container .text-primary.font-italic.font-weight-bold {
+    color: #B286FA;
+}
+#carrusel .container .text-primary.font-italic.font-weight-bold.text-center {
+}
+#video .container .text-primary.font-italic.font-weight-bold.text-center {
+}
+.text-primary.font-italic.font-weight-bold.text-center {
+}
+#letra .container .text-primary.font-italic.font-weight-bold.text-center {
+}
+#spotify .container .text-primary.font-italic.font-weight-bold.text-center {
+    color: #C69CFF;
+}
+
